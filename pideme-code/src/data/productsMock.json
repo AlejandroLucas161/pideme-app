@@ -1,0 +1,34 @@
+[
+  {
+    "id": "2d77eb75-261d-4c99-ba79-0f077b579a32",
+    "name": "Hamburguesa Vegana de Caraotas 200gr",
+    "description": "Es una divina hamburguesa de caraotas que no engorda a nadie. Quizas pierdas el tiempo comiendola. Pero te la recomendamos, es saludable. Solo para vos.",
+    "price": 750.41,
+    "metadata": {
+      "image": {
+      "name": "hamburgues-caraotas-negras-200gr",
+      "image_url": "https://gcdn.emol.cl/cocina/files/2016/07/Hamburguesa-porotos.jpg"
+      }
+    },
+    "category": {
+      "code": "hamburguesa-vegada",
+      "name": "Hamburguesa Vegana"
+    }
+  },
+  {
+    "id": "f6c747b4-d846-4bdb-afb7-041e00950902",
+    "name": "Hamburguesa de Carne 200gr",
+    "description": "Hamburguesa de verdad no como la vegana. Esta si engornda.",
+    "price": 950.5,
+    "metadata": {
+      "image": {
+      "name": "hamburguesa-carne-200gr",
+      "image_url": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/11/receta-de-carne-para-hamburguesas-jugosas-caseras.jpg"
+      }
+    },
+    "category": {
+      "code": "hamburguesa-carne",
+      "name": "Hamburguesa de Carne"
+    }
+  }
+] 

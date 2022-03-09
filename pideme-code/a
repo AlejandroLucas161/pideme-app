@@ -1,0 +1,76 @@
+// [
+//   {
+//     id: 1,
+//     category: {
+//       name: "120gr"
+//     }
+//   },
+//   {
+//     id: 2,
+//     category: {
+//       name: "240gr"
+//     }
+//   }
+// ]
+
+
+
+// ===== 
+
+
+// {
+//   "120gr": [
+//     {
+//       id: 1,
+//       category: {
+//         name: "120gr"
+//       }
+//     }
+//   ],
+  
+//   "240gr": [
+//     {
+//       id: 2,
+//       category: {
+//         name: "240gr"
+//       }
+//     }
+//   ]
+// }
+
+
+// === 
+
+
+// Object.entries(productsByCategory).map(([categoryName, product]) => (
+//   <div>
+//     {value.map((product) => (
+//       <Product {...product} />
+//     ))}
+//   </div>
+// ))
+
+
+// const test = products.reduce((acc, currProduct) => {
+//   const newAcc = { ...acc };
+
+//   // 1. Find category
+//   // const categoryName = currProduct.category.name
+//   const { category: { name: categoryName } } = currProduct; // 120gr
+
+//   // 2. Check if category already exists
+//   // acc.categoryName !== acc[categoryName]
+//   if (newAcc[categoryName]) { // newAcc["120gr"] existe?
+//     // 2.1  exists
+//     newAcc[categoryName].push(currProduct);
+//   } else { // No tiene esta propiedad
+//     // 2.2  doesn't exist
+//     newAcc[categoryName] = [currProduct];
+//   }
+
+//   console.log(categoryName, newAcc);
+  
+//   return newAcc;
+// }, {})
+
+// console.log(test);
