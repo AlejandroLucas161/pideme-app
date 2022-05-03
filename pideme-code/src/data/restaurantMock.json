@@ -3,7 +3,7 @@
     "id": "1e6a0f4a-65d3-49cf-94ea-736736b1bf76",
     "code": "aleresto",
     "name": "Ale Resto",
-    "description": "El rincon del sabor Ale Resto",
+    "description": "El Rincon del Sabor Ale Resto",
     "phones": [
       {
         "phoneType": "cellphone",
@@ -18,7 +18,7 @@
     ],
     "addresses": [
       {
-      "fullAddress": "La esquina Caliente 9969, Piso 69. Barrio el Sabor"
+      "fullAddress": "Lorem 4505, Sit 2. Ipsum Dolor Amet"
       }
     ]
   }

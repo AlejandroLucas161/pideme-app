@@ -1,34 +1,99 @@
 [
   {
     "id": "2d77eb75-261d-4c99-ba79-0f077b579a32",
-    "name": "Hamburguesa Vegana de Caraotas 200gr",
-    "description": "Es una divina hamburguesa de caraotas que no engorda a nadie. Quizas pierdas el tiempo comiendola. Pero te la recomendamos, es saludable. Solo para vos.",
-    "price": 750.41,
+    "name": "Hamburguesa Vegana",
+    "description": "Hamburguesa Vegana con Carne de Porotos, Lechuga, Tomate y Pepinillo.",
+    "price": 750,
     "metadata": {
       "image": {
-      "name": "hamburgues-caraotas-negras-200gr",
-      "image_url": "https://gcdn.emol.cl/cocina/files/2016/07/Hamburguesa-porotos.jpg"
+        "name": "hamburguesa-vegana",
+        "image_url": "https://gcdn.emol.cl/cocina/files/2016/07/Hamburguesa-porotos.jpg"
       }
     },
     "category": {
       "code": "hamburguesa-vegada",
-      "name": "Hamburguesa Vegana"
+      "name": "Hamburguesas"
     }
   },
   {
     "id": "f6c747b4-d846-4bdb-afb7-041e00950902",
-    "name": "Hamburguesa de Carne 200gr",
-    "description": "Hamburguesa de verdad no como la vegana. Esta si engornda.",
-    "price": 950.5,
+    "name": "Hamburguesa de Carne",
+    "description": "Hamburguesa de Carne con Cebolla, Lechuga y Tomate.",
+    "price": 950,
     "metadata": {
       "image": {
-      "name": "hamburguesa-carne-200gr",
-      "image_url": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/11/receta-de-carne-para-hamburguesas-jugosas-caseras.jpg"
+        "name": "hamburguesa-carne",
+        "image_url": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/11/receta-de-carne-para-hamburguesas-jugosas-caseras.jpg"
       }
     },
     "category": {
       "code": "hamburguesa-carne",
-      "name": "Hamburguesa de Carne"
+      "name": "Hamburguesas"
+    }
+  },
+  {
+    "id": "f6c747b4-d846-4bdb-afb7-041e00950902",
+    "name": "Hamburguesa Doble Carne",
+    "description": "Hamburguesa Doble Carne con Cebolla, Queso, Lechuga y Tomate",
+    "price": 820,
+    "metadata": {
+      "image": {
+        "name": "hamburguesa-doble-carne",
+        "image_url": "https://thumbs.dreamstime.com/b/hamburguesa-doble-del-queso-con-la-cerveza-123765738.jpg"
+      }
+    },
+    "category": {
+      "code": "hamburguesa-carne",
+      "name": "Hamburguesas"
+    }
+  },
+
+  {
+    "id": "f6c747b4-d846-4bdb-afb7-041e00950902",
+    "name": "Wrap Carne",
+    "description": "Wrap de Carne con Cebolla, Tomate, Zanahoria y Zapallito",
+    "price": 780,
+    "metadata": {
+      "image": {
+        "name": "wrap-carne",
+        "image_url": "https://i.ytimg.com/vi/-_Xc1CbDG9Y/maxresdefault.jpg"
+      }
+    },
+    "category": {
+      "code": "wrap-carne",
+      "name": "Wraps"
+    }
+  },
+  {
+    "id": "f6c747b4-d846-4bdb-afb7-041e00950902",
+    "name": "Wrap de Pollo",
+    "description": "Wrap de Pollo con Cebolla, Lechuga y Tomate",
+    "price": 700,
+    "metadata": {
+      "image": {
+        "name": "wrap-pollo",
+        "image_url": "https://www.tqma.com.ec/images/com_yoorecipe/banner_superior/17227_1.jpg"
+      }
+    },
+    "category": {
+      "code": "wrap-pollo",
+      "name": "Wraps"
+    }
+  },
+  {
+    "id": "f6c747b4-d846-4bdb-afb7-041e00950902",
+    "name": "Wrap Vegetariano",
+    "description": "Wrap Vegetariano de Zapallito, Berenjena, Cebolla, Lechuga y Tomate",
+    "price": 620,
+    "metadata": {
+      "image": {
+        "name": "wrap-vegetariano",
+        "image_url": "https://cdn.queapetito.com/wp-content/uploads/2020/01/wrap-vegano-600x469.jpg"
+      }
+    },
+    "category": {
+      "code": "wrap-vegetariano",
+      "name": "Wraps"
     }
   }
 ] 
